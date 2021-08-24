@@ -1,0 +1,6 @@
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\bin\Debug\ComponentesExtras.dll
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\bin\Debug\ComponentesExtras.pdb
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\obj\Debug\ComponentesExtras.csproj.AssemblyReference.cache
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\obj\Debug\ComponentesExtras.csproj.CoreCompileInputs.cache
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\obj\Debug\ComponentesExtras.dll
+C:\Users\ralf.carneiro\source\repos\Deal.RCProjetoCSharp.ConsoleApp\ComponentesExtras\obj\Debug\ComponentesExtras.pdb
